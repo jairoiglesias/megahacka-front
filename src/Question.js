@@ -155,7 +155,12 @@ function QuestionScreen(props) {
 
     <br />
     <br />
-
+    <span style={{fontSize: 12, margin: 5}}>
+      Após responder a pergunta, aguarde alguns instantes para que o sistema aprenda com a mesma
+    
+    </span>
+      <br />
+      <br />
     <Button
       variant="contained"
       color="primary"
